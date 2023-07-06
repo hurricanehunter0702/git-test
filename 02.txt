@@ -1,0 +1,19 @@
+New 02.txt added.
+This line is added on local.
+This line is added on github directly.
+
+This is some change.
+
+
+
+
+Kubernetes GitOps
+GitOps provides a smooth way and a set of practices to leverage simple tools like Git to manage infrastructure and application deployments. By combining Kubernetes and GitOps, organizations can reap the enormous benefits of flexibility, agility, scale, performance, efficiency and faster feature delivery.
+
+<h2>Simple GitOps Workflow</h2>
+GitOps basically works on the principle of making Git the source of truth, including moving everything to code and storing and maintaining everything in Git. When it comes to deployment, make use of an operator to deploy what is configured in Git and Yaml in a declarative fashion. Since all the developers are primarily friendly with Git, GitOps simplifies their complex workflow.
+
+So when it comes to Kubernetes, the app code, container images, and all related manifest files will be stored in Git, and any changes are made through Git as a single source of truth.
+
+<em>Note</em>: The above content is taken from my other GitOps article written on the Dev community. <a href="#">Read</a>!
+
